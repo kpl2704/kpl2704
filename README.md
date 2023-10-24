@@ -5,7 +5,7 @@ Frontend Developer | Passionate about crafting beautiful web experiences
 👨‍💻 I'm a frontend developer with one year of hands-on experience in a start-up building responsive and user-friendly web applications. My journey in the world of web development has been an exciting one, and I'm always eager to learn and explore the latest technologies and trends.
 
 🚀 Here's what I bring to the table:
-- 💡 Strong skills in HTML, CSS, and JavaScript.
+- 💡 Strong skills in HTML, CSS, SCSS, and JavaScript.
 - ⚙️ Experience with popular frontend libraries and frameworks like Jquery ,React.
 - 🎨 A keen eye for design, and a commitment to creating visually appealing user interfaces.
 - 💬 Effective communication and collaboration skills to work seamlessly with cross-functional teams.
